@@ -19,11 +19,7 @@ project "yaml-cpp"
   }
   defines
   {
-<<<<<<< HEAD
       "YAML_CPP_STATIC_DEFINE"
-=======
-	"YAML_CPP_STATIC_DEFINE"
->>>>>>> 334a366849590f84ce65c69bec9bec0d36240c4f
   }
 
 
